@@ -1,24 +1,9 @@
-<<<<<<< HEAD
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
-[![Review Assignment Due
-Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/c45zDV1M)
-
-<!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
-
-# Lab report #1
-=======
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
 #### This is a line from RStudio
 
 # Lab report \#1
->>>>>>> 8010675997f7fea122465611674afa4ce153d12b
 
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
@@ -34,9 +19,6 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-<<<<<<< HEAD
-Commit from RStudio
-=======
 # Report Notes:
 
 ### Noam Hazan
@@ -63,4 +45,21 @@ Step 12.5
 Step 12.6
 
 - confirmed it propagated to github remote
->>>>>>> 8010675997f7fea122465611674afa4ce153d12b
+
+## Aniroop Naladala
+
+Step 12.3:
+
+- navigated to github to accept the invite and join my lab team -used
+  git clone to clone the repository
+- opened the r project file
+
+Step 12.4:
+
+- added commits as instructed
+- commit didn’t work because multiple people were committing and doing
+  push and pull
+
+Step 12.5
+
+- pushed to team lab repo
