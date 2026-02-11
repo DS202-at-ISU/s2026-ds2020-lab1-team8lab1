@@ -59,3 +59,28 @@ Step 12.4:
 Step 12.5
 
 -   pushed to team lab repo
+
+## Nicole Dembny
+
+step 12.3:
+
+Cloned the test GitHub repository via RStudio. Saved a project locally to a selected folder.
+
+
+Step 12.4:
+
+Made a local change and committed. Ran into an author authentication error; fixed it by using:
+
+git config --global user.name "name"
+git config --global user.email "email"
+
+Step 12.5:
+
+Added notes to group README file
+Pushed to group repo
+
+
+
+
+
+
