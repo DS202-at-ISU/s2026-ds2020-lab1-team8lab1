@@ -82,3 +82,34 @@ git config –global user.name “name” git config –global user.email
 Step 12.5:
 
 Added notes to group README file Pushed to group repo
+
+### Kavya’s Notes
+
+#### Step 12.2 – Cloning the Repository
+
+- Verified that the repository downloaded correctly by confirming the
+  presence of the README file in the project directory.
+
+#### Step 12.3 – Editing the File
+
+- Opened the README file in RStudio.
+- Added a new line of text to test local changes and ensure editing
+  functionality was working properly.
+
+#### Step 12.4 – Committing Changes
+
+- Saved the file after editing.
+- Used the Git pane in RStudio to stage the file.
+- Successfully committed the changes with an appropriate commit message.
+
+#### Step 12.5 – Pushing to GitHub
+
+- Pushed the committed changes to the remote GitHub repository.
+- Confirmed that the push completed without errors.
+
+#### Step 12.6 – Verifying Remote Updates
+
+- Verified on GitHub that the new line (“This is a line from RStudio”)
+  appeared in the README file.
+- Confirmed that local changes were successfully synchronized with the
+  remote repository.
