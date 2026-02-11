@@ -43,3 +43,19 @@ Step 12.5
 Step 12.6
 
 -   confirmed it propagated to github remote
+
+## Aniroop Naladala
+
+Step 12.3:
+
+-   navigated to github to accept the invite and join my lab team -used git clone to clone the repository
+-   opened the r project file
+
+Step 12.4:
+
+-   added commits as instructed
+-   commit didn't work because multiple people were committing and doing push and pull
+
+Step 12.5
+
+-   pushed to team lab repo
