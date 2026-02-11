@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 editor_options: 
   markdown: 
@@ -10,6 +11,14 @@ Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce9
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
 # Lab report #1
+=======
+
+<!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
+
+#### This is a line from RStudio
+
+# Lab report \#1
+>>>>>>> 8010675997f7fea122465611674afa4ce153d12b
 
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
@@ -25,4 +34,33 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+<<<<<<< HEAD
 Commit from RStudio
+=======
+# Report Notes:
+
+### Noam Hazan
+
+Step 12.3
+
+- navigated via bash to my preferred folder.
+
+- used git clone with the link in order to clone the repository
+
+- opened the r project file
+
+Step 12.4
+
+- added the text line as instructed
+
+- commit didn’t work because the file wasn’t saved saved the file used
+  git add readme.rmd used git commit -m “test commit”
+
+Step 12.5
+
+- pushed to repo successfully
+
+Step 12.6
+
+- confirmed it propagated to github remote
+>>>>>>> 8010675997f7fea122465611674afa4ce153d12b
