@@ -1,6 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/c45zDV1M)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
+
+#### This is a line from RStudio
 
 # Lab report \#1
 
@@ -17,3 +18,30 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+# Report Notes:
+
+### Noam Hazan
+
+Step 12.3
+
+- navigated via bash to my preferred folder.
+
+- used git clone with the link in order to clone the repository
+
+- opened the r project file
+
+Step 12.4
+
+- added the text line as instructed
+
+- commit didn’t work because the file wasn’t saved saved the file used
+  git add readme.rmd used git commit -m “test commit”
+
+Step 12.5
+
+- pushed to repo successfully
+
+Step 12.6
+
+- confirmed it propagated to github remote

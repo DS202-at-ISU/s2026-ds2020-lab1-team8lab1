@@ -4,19 +4,42 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 #### This is a line from RStudio
 
-
 # Lab report #1
 
-Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
+Follow the instructions posted at <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 
-Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.  
+Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.
 
-All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
-Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
+# Report Notes:
+
+### Noam Hazan
+
+Step 12.3
+
+-   navigated via bash to my preferred folder.
+
+-   used git clone with the link in order to clone the repository
+
+-   opened the r project file
+
+Step 12.4
+
+-   added the text line as instructed
+
+-   commit didn't work because the file wasn't saved saved the file used git add readme.rmd used git commit -m "test commit"
+
+Step 12.5
+
+-   pushed to repo successfully
+
+Step 12.6
+
+-   confirmed it propagated to github remote
